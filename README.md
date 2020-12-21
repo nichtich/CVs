@@ -46,6 +46,14 @@ Jakob Voß works in research and development at the head office of the Common Li
 
 ...
 
+## 2010
+
+### [Handbuch Bibliothek 2.0] (https://www.degruyter.com/view/title/36910)
+
+Jakob Voß studierte bis 2005 Informatik sowie Bibliotheks- und Informationswissenschaft  in  Berlin  und  Chemnitz.  Seit  2006  arbeitet  er  bei  der  Verbundzentrale  des Gemeinsamen Bibliotheksverbund (GBV). Von 2003 bis 2006 gehörte er dem Vorstand  von  Wikimedia  Deutschland  e.V.  an.  Neben  verschiedenen  Fortbildungen aus dem Bereich Social Software führte er 2008 und 2009 die Lehrveranstaltung „Digitale Bibliothek“ an der Fachhochschule Hanover durch.
+
+...
+
 ## 2008
 
 ### [Wikimania 2008](http://webcast.bibalex.org/Webcast/Speaker/Details.aspx?ID=163)
