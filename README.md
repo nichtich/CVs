@@ -6,6 +6,10 @@ Looks like each time I got asked for a short CV I wrote it new from scratch. Her
 
 ## 2020
 
+### Handbuch Qualität in der Inhaltserschließung
+
+Jakob Voß arbeitet in Forschung und Entwicklung an der Verbundzentrale des GBV (VZG). 2013 promovierte er an der Humboldt Universität zu Berlin zu allgemeinen Strukturen in Daten. Derzeit ist er für die technische Koordination im Projekt coli-conc verantwortlich.
+
 ### [SWIB 2020](http://swib.org/swib20/speakers.html)
 
 Jakob Voß works in research and development at the head office of the Common Library Network (Gemeinsamer Bibliotheksverbund, GBV) in Göttingen. His main interests include data modeling, interoperability and knowledge organization.
