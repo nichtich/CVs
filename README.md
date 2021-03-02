@@ -4,6 +4,12 @@ Looks like each time I got asked for a short CV I wrote it new from scratch. Her
 
 ---
 
+## 2021
+
+### [ISKO Research Observatory](https://www.iskouk.org/page-18230)
+
+Jakob Voss works in Research and Development at the headquarters of Common Library Network (Verbundzentrale des GBV - VZG) in Göttingen (Germany). He studied computer science, library science, and philosophy with and holds a PhD in information science form Humboldt University (Berlin). His research interest include data modelling, interoperability and knowledge organization. Jakob participated in founding Wikimedia Germany and has long been active in the Wikimedia movement, in particular Wikidata and WikiCite.
+
 ## 2020
 
 ### Handbuch Qualität in der Inhaltserschließung
