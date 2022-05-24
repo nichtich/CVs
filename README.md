@@ -3,6 +3,11 @@
 Looks like each time I got asked for a short CV I wrote it new from scratch. Here is a list of some of my CVs linked to their events.
 
 ---
+## 2022
+
+### [Bibliothekskongress 2022](https://bid2022.abstractserver.com/program/#/details/presentations/28)
+
+Dr. Jakob Voß ist an der Verbundzentrale des GBV (VZG) zuständig für Forschung und Entwicklung. Er forscht unter Anderem zu Datenformaten und entwickelt Software zur bibliothekarischen Datenverabeitung.
 
 ## 2021
 
